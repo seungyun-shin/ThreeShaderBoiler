@@ -1,5 +1,7 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# SSY Three.js and Shader start file
+Reference
+Courtesy of Bruno Simon of https://threejs-journey.xyz/ 
+and plus Yuri Artyukh https://www.youtube.com/watch?v=8K5wJeVgjrM
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
